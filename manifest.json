@@ -1,0 +1,57 @@
+{
+    "name": "Proton Mircrosoft Edge Light",
+
+    "author": "zhangtianli",
+    "description": "A tweak to Mircrosoft Edge Light Theme to adapt Proton Design.",
+    "manifest_version": 2,
+    "version": "1.0.0",
+
+    "theme": {
+        "colors": {
+            "frame": "#cecece",
+            "frame_inactive": "#e8e8e8",
+            "tab_background_text": "rgba(41, 41, 41, 1)",
+            "tab_background_separator": "rgba(163, 163, 163, 1)",
+
+            "tab_text":  "rgba(21, 21, 21, 1)",
+            "tab_line": "rgba(242, 242, 242, 1)",
+            "tab_loading": "rgba(141, 141, 141, 1)",
+            "tab_selected": "rgba(242, 242, 242, 1)",
+            "icons": "rgba(45, 45, 45, 1)",
+            "icons_attention": "rgba(0, 120, 215, 1)",
+
+            "toolbar": "#f7f7f7",
+            "bookmark_text": "rgba(21, 21, 21, 1)",
+            "toolbar_top_separator": "#cecece",
+            "toolbar_bottom_separator": "#bfbfbf",
+            "toolbar_vertical_separator": "rgba(242, 242, 242, 1)",
+
+            "toolbar_field": "#ffffff",
+            "toolbar_field_text": "rgba(21, 21, 21, 1)",
+            "toolbar_field_text_focus": "rgba(21, 21, 21, 1)",
+            "toolbar_field_highlight": "rgba(0, 120, 215, 1)",
+            "toolbar_field_highlight_text": "rgba(255, 255, 255, 1)",
+            "toolbar_field_focus": "#ffffff",
+            "toolbar_field_border": "#f0f0f0",
+            "toolbar_field_border_focus": "#99bbef",
+
+            "button_background_hover": "rgba(218, 218, 218, 1)",
+            "button_background_active": "rgba(242, 242, 242, 1)",
+
+            "popup": "rgba(255, 255, 255, 1)",
+            "popup_text": "rgba(21, 21, 21, 1)",
+            "popup_border": "transparent",
+            "popup_highlight": "#bfbfbf",
+            "popup_highlight_text": "rgba(0, 0, 0, 1)",
+
+            "ntp_background": "rgba(241, 241, 241, 1)",
+            "ntp_text": "rgba(21, 21, 21, 1)",
+
+            "sidebar": "#ffffff",
+            "sidebar_border": "transparent",
+            "sidebar_text":  "rgba(21, 21, 21, 1)",
+            "sidebar_highlight": "#CCCCCC",
+            "sidebar_highlight_text": "rgba(0, 0, 0, 1)"
+        }
+    }
+}
