@@ -4,7 +4,7 @@
     "author": "zhangtianli",
     "description": "A tweak to Mircrosoft Edge Light Theme to adapt Proton Design.",
     "manifest_version": 2,
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "theme": {
         "colors": {
